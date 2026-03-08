@@ -1,6 +1,6 @@
 # Cloud Portfolio
 
-This repository contains a collection of AWS cloud engineering projects designed to demonstrate hands-on experience with cloud infrastructure, identity, networking, automation, and monitoring.
+This repository contains a collection of Azure cloud engineering projects designed to demonstrate hands-on experience with cloud infrastructure, identity, networking, automation, and monitoring.
 
 Each project includes:
 - Architecture diagrams
